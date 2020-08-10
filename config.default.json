@@ -1,4 +1,4 @@
 {
-	"PORT":1337,
+	"PORT":3000,
 	"STARBOUND_INSTALL_DIR":"/path/to/starbound"
 }
